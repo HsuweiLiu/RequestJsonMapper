@@ -1,2 +1,2 @@
 # RequestJsonMapper
-Convert request body from JSON object to class object.
+Convert flask request body from JSON object to class object.
